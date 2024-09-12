@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: white;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+:root {
+  --toastify-toast-background: #000;
+}
